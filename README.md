@@ -2,6 +2,12 @@
 
 This repo serves as a guide and reference to designers, writers, and developers to create consistent, on-brand content for BGD Labs.
 
+## Colors
+
+Main: #1B2030
+
+Secondary: #C4BFB8
+
 ## Type
 
 The Open Sans typeface is an open source typeface designed by Rasmus Andersson.
