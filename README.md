@@ -1,8 +1,12 @@
 # BGD Labs Brand book
 
+<img src="./logo/black/circle/bgd_black_circle_logo.svg" alt="BGD Labs" width="250"/>
+
 This repository serves as a guide and reference to designers, writers, and developers to create consistent, on-brand content for BGD Labs.
 
 ## Colors
+
+<img src="./colors_preview.svg" alt="BGD Labs" width="300"/>
 
 Main: #1B2030
 
@@ -10,7 +14,7 @@ Secondary: #C4BFB8
 
 ## Typeface
 
-The Open Sans typeface is an open-source typeface designed by Rasmus Andersson.
+The Inter typeface is an open-source typeface designed by Rasmus Andersson.
 
 You can download it from Google Fonts: [https://fonts.google.com/specimen/Inter](https://fonts.google.com/specimen/Inter) 
 
